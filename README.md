@@ -123,7 +123,7 @@ ________________________________________
 ### Stage 4: Visualization and Insights
 **Creating Visual Analysis**
 
-![BI Visualization](other/Python API - Sports Articles Performance Analysis.png)
+![BI Visualization](other/Python_API_Sports_Articles_Performance_Analysis.png)
 
 I generated visualizations to communicate findings:
 
