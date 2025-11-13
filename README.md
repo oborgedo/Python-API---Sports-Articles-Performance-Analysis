@@ -119,6 +119,8 @@ position_performance = df.groupby('position').agg({
 ```
 ________________________________________
 
+![BI Visualization](other/Python API - Sports Articles Performance Analysis.png)
+
 ### Stage 4: Visualization and Insights
 **Creating Visual Analysis**
 
