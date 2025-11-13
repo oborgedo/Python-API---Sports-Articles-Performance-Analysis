@@ -1,6 +1,6 @@
 ## Python/API - Sports Articles Performance Analysis
 
-![accident](Imagenes/siniestro-viales-3.jpg)
+![accident](other/Magazines.png)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/Numpy-gray?style=flat&logo=Numpy)
